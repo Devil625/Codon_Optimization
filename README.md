@@ -3,7 +3,7 @@ A training tool for the codon optimization model for E. coli.
 In order to accurately capture the codon distribution of the host genes, the codon optimization problem can be converted into that of sequence annotation in deep learning.Sequence labeling models are quite popular in many NLP tasks, such as Named Entity Recognition (NER), part-of-speech (POS) tagging and word segmentation.NCRF++ is a PyTorch based framework with flexiable choices of input features and output structures. 
 
 
-This is a training tool for the codon optimization model for E. coli,which is based on [NCRF++](https://github.com/jiesutd/NCRFpp)
+This is a training tool for the codon optimization model for E. coli,which is based on [NCRF++](https://github.com/jiesutd/NCRFpp/tree/PyTorch0.3)
 
 
 Welcome to start this repository!
