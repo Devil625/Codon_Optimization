@@ -43,7 +43,7 @@ You can also use our [trained_model](sample_data/lstmcrf.0.model) to decode.
 =========
 [codonToBox](codonToBox.py) and [boxToCodon](codonToBox.py) is provided to transform data. 
 
-Updating...
+4.Codonbox website
 ====
-
+http://www.codonbox.com:7000
 
